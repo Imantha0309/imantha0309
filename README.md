@@ -3,10 +3,7 @@
   <img src="https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif" width="100%" />
 </p>
 
-<!-- Profile Image -->
-<p align="left">
-  <img src="https://i.postimg.cc/xNfC1Fvs/your-image.jpg" width="170" align="left" style="border-radius: 12px; margin-right: 20px;" />
-</p>
+
 
 <h1 align="center">Ayubowan! I'm Imantha Ushan 🌿</h1>
 <h3 align="center">Driven by Creativity, Empowered by IT 🚀</h3>
@@ -20,6 +17,10 @@
 - 📫 Email: **Imanthaushan0309@gmail.com**
 - ⚡ Fun fact: **Daydreaming boosts creativity**
 
+<!-- Profile Image -->
+<p align="right">
+  <img src="https://i.postimg.cc/xNfC1Fvs/your-image.jpg" width="170" align="left" style="border-radius: 12px; margin-right: 20px;" />
+</p>
 ---
 
 ## 🚀 Animated Badges  
