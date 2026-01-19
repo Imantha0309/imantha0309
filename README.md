@@ -118,14 +118,6 @@
 <h1 align="center">GitHub Analytics Dashboard</h1>
 
 <div align="center">
-
-  <h2>Contribution Streak</h2>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=imantha0309&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-  </a>
-
-  <br/><br/>
-
   <h2>Detailed Stats</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imantha0309&theme=github_dark" width="100%"/>
 
