@@ -15,7 +15,6 @@
     <tr>
       <td width="50%" align="center">
         <img width="100%" alt="Profile Image" src="https://github.com/user-attachments/assets/005fd657-8aeb-4739-9e26-b5adc626fe77" />
-" />
       </td>
       <td width="50%" align="center">
         <h1>Who Am I?</h1>
