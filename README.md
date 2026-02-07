@@ -14,7 +14,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img width="100%" alt="Profile Image" src="https://github.com/user-attachments/assets/005fd657-8aeb-4739-9e26-b5adc626fe77" />
+        <img width="100%" alt="Profile Image" src="https://github.com/user-attachments/assets/f2e600f5-892c-4227-bfb5-93ab80ae8cf3" />
       </td>
       <td width="50%" align="center">
         <h1>Who Am I?</h1>
