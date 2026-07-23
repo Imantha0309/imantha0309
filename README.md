@@ -19,7 +19,7 @@
       <td width="50%" align="center">
         <h1>Who Am I?</h1>
         <h1>I am Imantha Ushan</h1>
-        <p>I’m a web developer who loves turning big ideas into easy-to-use websites. I spend my time writing clean code and making sure everything looks great on screen.</p>
+        <p>I'm a web developer who loves turning big ideas into easy-to-use websites. I spend my time writing clean code and making sure everything looks great on screen.</p>
       </td>
     </tr>
   </table>
@@ -33,14 +33,17 @@
   <a href="https://fb.com/imantha.ushan.1" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/imantha-ushan" target="blank">
+  <a href="https://www.linkedin.com/in/imantha-ushan/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/imantha0309" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/imantha_ushan" target="blank">
+  <a href="https://www.instagram.com/imantha_ushan__/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://imantha0309.github.io/portfolio/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:Imanthaushan0309@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -115,29 +118,35 @@
 
 <hr />
 
-<h1 align="center">GitHub Analytics Dashboard</h1>
+<h1 align="center">Let's Connect & Collaborate</h1>
 
 <div align="center">
-  <h2>Detailed Stats</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imantha0309&theme=github_dark" width="100%"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imantha0309&theme=radical&hide_border=false" alt="Imantha's Streak" />
-
-  <br/><br/>
-
-  <h2>Detailed Contribution Metrics</h2>
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imantha0309&theme=github_dark" width="48%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imantha0309&theme=github_dark" width="48%"/>
+    <strong>I'm always open to interesting projects and opportunities!</strong>
   </p>
+  
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imantha0309&theme=github_dark" width="48%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imantha0309&theme=github_dark&utcOffset=5.5" width="48%"/>
+    <a href="https://fb.com/imantha.ushan.1" target="blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/imantha-ushan/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/imantha0309" target="blank">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/imantha_ushan__/" target="blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://github.com/Imantha0309" target="blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://imantha0309.github.io/portfolio/" target="blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
   </p>
-
-  <h2>Coding Activity Calendar</h2>
-  <img src="https://ghchart.rshah.org/e05397/imantha0309" width="100%" />
-
+  
+  <p>
+    <strong>📧 Email: </strong><a href="mailto:Imanthaushan0309@gmail.com">Imanthaushan0309@gmail.com</a>
+  </p>
 </div>
